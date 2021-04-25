@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+    "providerOptions": {
+        "cloud_name": "elifeph",
+        "api_key": "529215453391957",
+        "api_secret": "4nRcTxGAuzRKi8cofM_Fxhv5p2I"
+    }
+}

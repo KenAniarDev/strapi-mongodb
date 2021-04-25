@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "patient_profiles",
+  "info": {
+    "name": "patient_profile"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
